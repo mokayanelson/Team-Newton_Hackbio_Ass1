@@ -1,0 +1,5 @@
+print("Name:\nNelson Mokaya Nyakundi")
+print("E-mail:\nmokayanelson@yahoo.com")
+print("Slack Username:\n@NNyakundi")
+print("Biostack:\nGenomics")
+print("Twitter Handle:\n@nel_nielsen")
